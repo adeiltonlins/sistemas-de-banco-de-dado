@@ -1,1 +1,5 @@
-# sistemas-de-banco-de-dado
+ banco de dados é uma coleção de tabelas relacionadas que são geralmente integradas, vinculadas ou referenciadas a um outro. A vantagem de um banco de dados é que os dados e registros contidos em tabelas diferentes podem ser facilmente organizadas e recuperadas utilizando software de gestão especializado chamado de sistema gerenciador de banco de dados (SGBD) ou gerente de banco de dados.
+ Hoje em dia a maioria dos sistemas de base de dados são do tipo relacional.
+Databases relacionais têm valiosos atributos que a distinguem como superior. Provavelmente o mais importante é você pode mudar a estrutura de dados sem alterações nas aplicações. Suponha, por exemplo, que você adicione uma ou mais colunas numa tabela. Você não precisa alterar nenhum aplicativo que o sistema vai continuar a processar. Claro, se você remover uma coluna que uma aplicação existente utiliza, você vai ter problemas.
+um catálogo de dados é um inventário organizado de ativos de dados na organização. Ele usa metadados para ajudar as organizações a gerenciarem seus dados.
+O catálogo do sistema é o coração de qualquer Sistema de Gerenciamento de Bancos de Dados (SGBD) de finalidade geral.
